@@ -14,3 +14,8 @@ Create Class HttpRequest for communicating with Web URL
 
 ## Output
 
+![WhatsApp Image 2023-11-02 at 5 20 18 PM](https://github.com/jaydipchangani/MAD_Practical-10_21012021012/assets/98078979/2ffd7bdd-08e7-4a67-acd3-e67bd87dfa18)
+
+![WhatsApp Image 2023-11-02 at 5 20 18 PM](https://github.com/jaydipchangani/MAD_Practical-10_21012021012/assets/98078979/57dc9bf2-0241-4c5b-b30f-660a9a2908f1)
+
+![Uploading WhatsApp Image 2023-11-02 at 5.20.19 PM.jpeg…]()
